@@ -6,6 +6,8 @@ A Window x64 cgi-bin program, the server component which manages client ids, sav
 
 This component must be placed in the cgi-bin directory of the http server
 
+All source code for this component is provided in this repository.
+
 ## modify_guid_template.code
 
 Template code for generating source code. 
@@ -29,6 +31,8 @@ You must set the permissions on the PrivateMessenger directory and all the direc
 Windows x64 program which compiles source code to generate protected byte code which will be sent to the client.
 
 This component must be placed in the Generated directory, see above.
+
+Source code for this .exe is not provided.
 
 ## Backup directory
 
