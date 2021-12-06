@@ -44,7 +44,7 @@ The server manages two files:
 
 ..\PrivateMessenger\DB.bin - contains the hashed 32 byte ID for each client and a server generated 16 byte keys
 
-..\PrivateMessenger\MSG.db - contains pending text messages (sent but not yet received) 
+..\PrivateMessenger\MSG.bin - contains pending text messages (sent but not yet received) 
 
 
 
